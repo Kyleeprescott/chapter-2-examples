@@ -9,9 +9,9 @@ public class Ch2Exe {
 
 	public static void main(String[] args) {
 		// display some text 
-		System.out.println("welcome to java" );
+		System.out.println("welcome to java");
 		
-		
+	    
 		
 	}
 }
